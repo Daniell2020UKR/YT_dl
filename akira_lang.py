@@ -7,12 +7,12 @@ translations = {
         'akira_newlang': 'New language is set.',
         'akira_pmonly': 'This command is only available in PM\'s.',
         'akira_newcontact': 'I added you to my contacts.',
-        'akira_donate': 'Donate the Developer of source code-@Myst33Donate',
+        'akira_donate': 'Donate the Developer of source code-@Myst33dornate, Donate me — @Daniell2020UKRDonate',
         'akira_downloading': 'Downloading...',
         'akira_uploading': 'Uploading...',
         'akira_audio_download_error': 'An error occurred while trying to download audio.',
         'akira_audio_upload_error': 'An error occurred while trying to upload audio.',
-        'akira_changelog': 'Version 0.1 pre-alpha — SC modded \& bot started firstly. Version 0.2-alpha — SC modded x2 \& added y2v function (PRE-ALPHA), bug fix',
+        'akira_changelog': 'Version 0.1 pre-alpha — SC modded \& bot started firstly. Version 0.2-alpha — SC modded x2 \& added y2v function (PRE-ALPHA), bug fix Version 0.3-alpha — bug fix',
         'akira_help':
             '.start - Start using the bot.\n'
             '.donate - Donation info.\n'
@@ -30,10 +30,10 @@ translations = {
         'akira_newlang': 'Новый язык установлен.',
         'akira_pmonly': 'Эта команда доступна только в ЛС.',
         'akira_newcontact': 'Я добавила тебя в мои контакты.',
-        'akira_donate': 'Донат разработчику исхов - @Myst33dDonate',
+        'akira_donate': 'Донат разработчику исхов - @Myst33dDonate, донат мне — @Daniell2020UKRDonate',
         'akira_downloading': 'Скачиваю...',
         'akira_uploading': 'Загружаю...',
-        'akira_changelog': 'Версия 0.1 pre-alpha — ИК модифицирован, бот запущен впервые. Версия 0.2-alpha — ИК модифицирован x2, добавлена y2v функция (ПРЕ-АЛЬФА), баг фикс', 
+        'akira_changelog': 'Версия 0.1 pre-alpha — ИК модифицирован, бот запущен впервые. Версия 0.2-alpha — ИК модифицирован x2, добавлена y2v функция (ПРЕ-АЛЬФА), баг фикс, Версия 0.3-alpha — баг фикс, подготовка к переходу на nanogram', 
         'akira_audio_download_error': 'Произошла ошибка пытаясь скачать аудио.',
         'akira_audio_upload_error': 'Произошла ошибка пытаясь загрузить аудио.',
         'akira_help':
