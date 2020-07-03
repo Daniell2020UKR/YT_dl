@@ -7,7 +7,7 @@ from youtube_dl import YoutubeDL
 from akira_db import *
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
-akira = '0.2-alpha'
+akira = '0.3-alpha'
 
 def log(text): print(f'[Akira] {text}')
 
